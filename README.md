@@ -43,8 +43,12 @@ Cloud synchronization
 Screenshots
 
 Add screenshots of your app here.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b3f7f86-7ea5-42df-9994-2ca34a43575f" width="230"/>
+  <img src="https://github.com/user-attachments/assets/77bc56fa-f3b1-4ba5-8beb-f98a7486aab9" width="230"/>
+</p>
 
-<img width="508" height="964" alt="Screenshot 2026-08-01 at 10 56 37 AM" src="https://github.com/user-attachments/assets/4b3f7f86-7ea5-42df-9994-2ca34a43575f" />
-<img width="508" height="964" alt="Screenshot 2026-08-01 at 10 57 28 AM" src="https://github.com/user-attachments/assets/77bc56fa-f3b1-4ba5-8beb-f98a7486aab9" />
-<img width="508" height="964" alt="Screenshot 2026-08-01 at 10 57 43 AM" src="https://github.com/user-attachments/assets/2ff8a3da-7c4c-44aa-a238-3e73a48bbe39" />
-<img width="508" height="964" alt="Screenshot 2026-08-01 at 10 57 47 AM" src="https://github.com/user-attachments/assets/f7cb409d-920f-4588-85bc-0987c66c9bc3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ff8a3da-7c4c-44aa-a238-3e73a48bbe39" width="230"/>
+  <img src="https://github.com/user-attachments/assets/f7cb409d-920f-4588-85bc-0987c66c9bc3" width="230"/>
+</p>
